@@ -44,6 +44,7 @@ For compatibility with earlier versions, the app also checks
 
 Example `.close-superseded.yaml`:
 
+{% raw %}
 ```yaml
 superseded_label: superseded
 superseded_labels:
@@ -67,6 +68,7 @@ comment_template: |
   This PR was superseded by #{{new_pr_number}}.
 comment_footer: ""
 ```
+{% endraw %}
 
 ### Supported keys
 
@@ -84,10 +86,12 @@ comment_footer: ""
 If you provide `comment_template_path` or `comment_template`, the following
 placeholders are available:
 
+{% raw %}
 - `{{new_pr_number}}`
 - `{{new_pr_title}}`
 - `{{new_pr_url}}`
 - `{{superseded_pr_number}}`
+{% endraw %}
 
 ## Workflow parity
 
