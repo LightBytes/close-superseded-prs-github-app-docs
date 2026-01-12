@@ -18,9 +18,9 @@ the Service will be uninterrupted, error-free, or secure.
 ## 2. Free tier limitations
 
 The free tier is offered to help teams automate routine workflows. We may
-modify, suspend, or discontinue the free tier at any time, with or without
-notice. We are not responsible for any loss or damage resulting from such
-changes.
+modify, suspend, or discontinue the free tier or the Service at any time, with
+or without notice. We are not responsible for any loss or damage resulting
+from such changes.
 
 ## 3. Use of the Service
 
