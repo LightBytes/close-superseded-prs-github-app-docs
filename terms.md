@@ -22,24 +22,38 @@ modify, suspend, or discontinue the free tier or the Service at any time, with
 or without notice. We are not responsible for any loss or damage resulting
 from such changes.
 
-## 3. Use of the Service
+## 3. Limitation of liability
+
+To the maximum extent permitted by law, we will not be liable for any indirect,
+incidental, special, consequential, or punitive damages, or for any loss of
+profits, revenue, data, or goodwill. To the maximum extent permitted by law,
+our total liability for any claims relating to the Service is limited to
+zero dollars ($0).
+
+## 4. Indemnity
+
+You agree to defend, indemnify, and hold us harmless from any claims, damages,
+losses, and expenses (including reasonable attorneys' fees) arising out of or
+related to your use of the Service or violation of these Terms.
+
+## 5. Use of the Service
 
 You are responsible for how you configure and use the Service, including
 ensuring it has the appropriate permissions for your repositories. You agree
 not to misuse the Service or attempt to disrupt its operation.
 
-## 4. Third-party services
+## 6. Third-party services
 
 The Service integrates with third-party platforms (including GitHub). Your use
 of those platforms is governed by their terms and policies. We are not
 responsible for third-party availability or changes.
 
-## 5. Changes to these Terms
+## 7. Changes to these Terms
 
 We may update these Terms from time to time. Continued use of the Service after
 changes take effect constitutes acceptance of the updated Terms.
 
-## 6. Contact
+## 8. Contact
 
 If you have questions about these Terms, contact us via the support channel
 listed on the app's marketplace listing or documentation site.
