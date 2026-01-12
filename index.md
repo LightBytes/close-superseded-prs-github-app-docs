@@ -10,7 +10,7 @@ No per-repo workflow required.
 Install the app for your organization or account, then configure defaults on
 the setup page that appears after installation.
 
-> [!NOTE]
+> **Note**
 > GitHub only applies `closes` keywords when a PR is merged into the default branch.
 > The app follows the same rule by acting only on merged PRs.
 
@@ -36,10 +36,13 @@ You can configure defaults at install time and override them per repo.
 
 ### Per-repo overrides
 
-Create `.close-superceded.yml` or `.close-superceded.yaml` in the default
+Create `.close-superseded.yml` or `.close-superseded.yaml` in the default
 branch of the repo to override installation defaults.
 
-Example:
+For compatibility with earlier versions, the app also checks
+`.close-superceded.yml` and `.close-superceded.yaml`.
+
+Example `.close-superseded.yaml`:
 
 ```yaml
 superseded_label: superseded
@@ -86,8 +89,14 @@ placeholders are available:
 - `{{new_pr_url}}`
 - `{{superseded_pr_number}}`
 
+## Workflow parity
+
+If you prefer a workflow-based setup or want the full input reference, see the
+GitHub Actions version: https://github.com/Liam-Deacon/close-superseded-prs
+
 ## Troubleshooting
 
 - Only merged PRs trigger the app.
-- The app reads `.close-superceded.yml` from the default branch.
+- The app reads `.close-superseded.yml` from the default branch (legacy
+  `.close-superceded.yml` is also supported).
 - Ensure the app is installed on the repo and has access.
