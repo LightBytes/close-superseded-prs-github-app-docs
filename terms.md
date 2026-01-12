@@ -33,9 +33,10 @@ to the claim.
 
 ## 4. Indemnity
 
-You agree to defend, indemnify, and hold us harmless from any claims, damages,
-losses, and expenses (including reasonable attorneys' fees) arising out of or
-related to your use of the Service or violation of these Terms.
+You agree to indemnify and hold us harmless from any claims, damages, losses,
+and expenses (including reasonable attorneys' fees) arising from your misuse of
+the Service, your violation of these Terms, or your violation of law or
+third-party rights.
 
 ## 5. Use of the Service
 
@@ -43,18 +44,25 @@ You are responsible for how you configure and use the Service, including
 ensuring it has the appropriate permissions for your repositories. You agree
 not to misuse the Service or attempt to disrupt its operation.
 
-## 6. Third-party services
+## 6. Fair use and abuse protection
+
+To protect the Service and ensure availability for all users, we may apply rate
+limits, suspend, or restrict access for accounts or organizations that
+materially exceed reasonable usage or interfere with normal operation. We may
+do so with or without notice.
+
+## 7. Third-party services
 
 The Service integrates with third-party platforms (including GitHub). Your use
 of those platforms is governed by their terms and policies. We are not
 responsible for third-party availability or changes.
 
-## 7. Changes to these Terms
+## 8. Changes to these Terms
 
 We may update these Terms from time to time. Continued use of the Service after
 changes take effect constitutes acceptance of the updated Terms.
 
-## 8. Contact
+## 9. Contact
 
 If you have questions about these Terms, contact us via the support channel
 listed on the app's marketplace listing or documentation site.
