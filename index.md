@@ -104,3 +104,7 @@ GitHub Actions version: https://github.com/Liam-Deacon/close-superseded-prs
 - The app reads `.close-superseded.yml` from the default branch (legacy
   `.close-superceded.yml` is also supported).
 - Ensure the app is installed on the repo and has access.
+
+## Legal
+
+- Terms of Service: `terms.md`
