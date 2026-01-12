@@ -9,5 +9,5 @@ the Close Superseded PRs service.
 
 ## Contents
 
-- Architecture: `docs/architecture.md`
-- Product requirements: `docs/prd.md`
+- Architecture: `architecture.md`
+- Product requirements: `prd.md`
