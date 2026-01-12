@@ -108,3 +108,4 @@ GitHub Actions version: https://github.com/Liam-Deacon/close-superseded-prs
 ## Legal
 
 - Terms of Service: `terms.md`
+- Privacy Policy: `privacy.md`
