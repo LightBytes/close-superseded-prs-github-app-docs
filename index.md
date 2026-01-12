@@ -2,8 +2,6 @@
 title: Close Superseded PRs GitHub App
 ---
 
-# Close Superseded PRs GitHub App
-
 Close superseded pull requests automatically after the replacement PR merges.
 No per-repo workflow required.
 
