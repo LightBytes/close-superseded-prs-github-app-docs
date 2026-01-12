@@ -27,8 +27,9 @@ from such changes.
 To the maximum extent permitted by law, we will not be liable for any indirect,
 incidental, special, consequential, or punitive damages, or for any loss of
 profits, revenue, data, or goodwill. To the maximum extent permitted by law,
-our total liability for any claims relating to the Service is limited to
-zero dollars ($0).
+our total liability for any claims relating to the Service is limited to the
+amount you paid for the Service in the 12 months prior to the event giving rise
+to the claim.
 
 ## 4. Indemnity
 
